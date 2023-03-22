@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(53, 56, 108);
+}
+
+img{ width: 500px;
+height: 300px;}
+
+form {
+   
+        margin: 3% 0% 3% 0%;
+        color: pink;
+        font-family:fantasy;
+        font-size:25px;
+    }
+    
+h1{
+    color:whitesmoke;
+    font-family:fantasy;
+    font-size: 50px;
+}
+
+h2{ color: rgb(240, 207, 207);
+    font-family:fantasy;
+font-size: 40px;}
+
+button {    margin: 0% -5% 0% 0%;
+    background-color: lightpink;
+    font-size: fantasy;
+    border: 2px solid white;
+    width: 18%;
+    height: 30px;}
+
+
+    input{
+        border: 3px solid plum}
+
+    
